@@ -1,6 +1,6 @@
 # Healthcare Backend API - Miss Nurse Joy 🌸
-# This is to grab your attention nothing else (^^)
-## Yeah I have Deployed it on the Cloud so you need not take the effort for testing it on your machine locally : )
+## This is to grab your attention nothing else (^^)
+## Yeah, I've deployed it to the cloud, so you don't need to test it on your machine locally. :)
 
 A healthcare management backend built using Django REST Framework and PostgreSQL.
 
