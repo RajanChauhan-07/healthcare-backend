@@ -1,4 +1,6 @@
-# Healthcare Backend API
+# Healthcare Backend API - Miss Nurse Joy 🌸
+# This is to grab your attention nothing else (^^)
+## Yeah I have Deployed it on the Cloud so you need not take the effort for testing it on your machine locally : )
 
 A healthcare management backend built using Django REST Framework and PostgreSQL.
 
@@ -93,8 +95,5 @@ You can use Postman to test registration, login, patient and doctor CRUD operati
 
 For protected endpoints, first log in to obtain an access token, then select **Authorization → Bearer Token** in Postman and provide the token.
 
-Please use fictional test data only and avoid submitting real patient information.
-
-## License
-
-Created as an academic assignment.
+Have a good day ahead bye bye <33333
+🌷🍀
